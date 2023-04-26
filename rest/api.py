@@ -1,6 +1,6 @@
-from models import Projects
+from .models import Projects
 from rest_framework import viewsets, permissions
-from serializers import ProjectSerializers
+from .serializers import ProjectSerializers
 
 
 class ProjectViewSets(viewsets.ModelViewSet):
