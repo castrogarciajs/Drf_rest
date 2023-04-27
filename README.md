@@ -76,3 +76,7 @@ ejecuta el comando:
 ```shell
 python manage.py runserver
 ```
+
+obtendras esta vista en el puerto 8080
+
+![rest](https://i.postimg.cc/fLD3WQyF/rest.png)
