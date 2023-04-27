@@ -67,8 +67,14 @@
 
 Para usar esta api puedes clonar el repositorio
 
-```git
+```shell
 git clone https://github.com/sebastian01w/Drf_rest.git
+```
+
+descarga las dependecias
+
+```shell
+pip install -r requirements.txt
 ```
 
 ejecuta el comando:
