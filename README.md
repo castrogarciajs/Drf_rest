@@ -80,3 +80,7 @@ python manage.py runserver
 obtendras esta vista en el puerto 8080
 
 ![rest](https://i.postimg.cc/fLD3WQyF/rest.png)
+
+## LICENSE
+
+- Este proyecto esta bajo la `LILCENSE MIT` sientete libre de hacer con el lo que plazca mejoralo como te veas que es mejor
