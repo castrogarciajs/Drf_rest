@@ -84,3 +84,11 @@ obtendras esta vista en el puerto 8080
 ## LICENSE
 
 - Este proyecto esta bajo la `LILCENSE MIT` sientete libre de hacer con el lo que plazca mejoralo como te veas que es mejor
+
+## Autor
+
+- Johan Sebastian Castro Garcia
+  <br>
+  `github`: sebastian01w
+  <br>
+  `email`: johancs.mm@gmail.com
