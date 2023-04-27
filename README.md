@@ -1,5 +1,12 @@
 # Rest
 
+## INDICE
+
+- ![endpoints](#endpoints)
+- ![uso](#uso)
+- ![LICENSE](#license)
+- ![autor](#autor)
+
 - Api escrita en **_django Rest Framewrok_** en donde podras almacenar tus proyectos pendientes en tu planes de estudio, cumple con las operaciones **_CRUD_**
 
 ## endpoints
@@ -67,8 +74,14 @@
 
 Para usar esta api puedes clonar el repositorio
 
-```git
+```shell
 git clone https://github.com/sebastian01w/Drf_rest.git
+```
+
+descarga las dependecias
+
+```shell
+pip install -r requirements.txt
 ```
 
 ejecuta el comando:
