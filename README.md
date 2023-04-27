@@ -4,7 +4,7 @@
 
 - [endpoints](#endpoints)
 - [uso](#uso)
-- ![LICENSE](#license)
+- [LICENSE](#license)
 - ![autor](#autor)
 
 - Api escrita en **_django Rest Framewrok_** en donde podras almacenar tus proyectos pendientes en tu planes de estudio, cumple con las operaciones **_CRUD_**
