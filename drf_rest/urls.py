@@ -22,3 +22,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('rest.urls'))
 ]
+
+# Django Rest Framework deploy
