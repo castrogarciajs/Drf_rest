@@ -3,7 +3,7 @@
 ## INDICE
 
 - [endpoints](#endpoints)
-- ![uso](#uso)
+- [uso](#uso)
 - ![LICENSE](#license)
 - ![autor](#autor)
 
