@@ -49,6 +49,7 @@ INSTALLED_APPS = [
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
+    'whitenoise.middleware.WhiteNoiseMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
@@ -82,8 +83,8 @@ WSGI_APPLICATION = 'drf_rest.wsgi.application'
 # https://docs.djangoproject.com/en/4.2/ref/settings/#databases
 
 DATABASES = {
-    'default': dj_database_url(
-        default='postgresql://postgres:postgres@localhost:5432/mysite',
+    'default': dj_database_url.config(
+        default='sqlite:///db.sqlite3',
         conn_max_age=600
     )
 }
