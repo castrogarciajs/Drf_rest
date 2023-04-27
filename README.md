@@ -62,3 +62,11 @@
 ```json
 {}
 ```
+
+## Uso
+
+- Para usar esta api puedes clonar el repositorio
+
+```git
+git clone https://github.com/sebastian01w/Drf_rest.git
+```
